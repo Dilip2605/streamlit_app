@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title
-st.title("My First Streamlit App")
+st.title(" ABOUT ME !")
 
 # Simple message
-st.write("Hi 👋, welcome to Streamlit Cloud!")
+st.write("Hi 👋, My Name Is Dilipkumar ,I am coming from vellore, I completed BE CSE in TPGIT Vellore.")
